@@ -25,6 +25,15 @@ I break things to understand how they work, then build the guardrails so they do
 
 ---
 
+### 🐛 CVE Credits
+
+| CVE | Summary | Severity |
+|-----|---------|----------|
+| [CVE-2026-72785](https://github.com/advisories/GHSA-xxpx-f366-4xpq) | Craft CMS — Authorization bypass: view-only Categories user can modify category structure | Moderate |
+| [CVE-2026-55792](https://github.com/advisories/GHSA-287w-mxq6-x2cp) | Craft CMS — Sensitive file disclosure / server-side file read | Moderate |
+
+---
+
 ### 🔧 When I code, I rely on
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
