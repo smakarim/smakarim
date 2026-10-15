@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Muhammad Abdul Karim 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=smakarim&label=Profile%20views&color=705970&style=flat)
+![Profile views](https://visitcount.itsvg.in/api?id=smakarim&label=Profile%20Views&color=9&icon=0&pretty=true)
 
 I'm a **Data Security Architect** at [Sapience AI](https://sapienceai.co), passionate about building tools that make security actionable — from supply chain defense to AI-agent hardening.
 
