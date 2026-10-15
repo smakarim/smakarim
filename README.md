@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=smakarim&label=Profile%20views&color=705970&style=flat)
 
-I'm a **Security Engineer** at [Sapience AI](https://sapienceai.co), passionate about building tools that make security actionable — from supply chain defense to AI-agent hardening.
+I'm a **Data Security Architect** at [Sapience AI](https://sapienceai.co), passionate about building tools that make security actionable — from supply chain defense to AI-agent hardening.
 
 I break things to understand how they work, then build the guardrails so they don't break in production.
 
@@ -12,6 +12,16 @@ I break things to understand how they work, then build the guardrails so they do
 ![CISM](https://img.shields.io/badge/CISM-ISACA-705970?style=for-the-badge)
 ![CEH v12](https://img.shields.io/badge/CEH_v12-EC--Council-FF0000?style=for-the-badge)
 ![CC](https://img.shields.io/badge/CC-ISC²-00A651?style=for-the-badge)
+
+---
+
+### 💼 Experience
+
+| Role | Company |
+|------|---------|
+| **Data Security Architect** | [Sapience AI](https://sapienceai.co) |
+| **Information Security Architect** | NymCard |
+| **Sr. Application Security Engineer** | Securiti.ai (a Veeam Company) |
 
 ---
 
@@ -64,4 +74,4 @@ I break things to understand how they work, then build the guardrails so they do
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmuhammadabdulkarim)
 [![Website](https://img.shields.io/badge/Website-3B3A37?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imsyedkarim.com)
-[![Email](https://img.shields.io/badge/Email-705970?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakarim@sapienceai.co)
+[![Email](https://img.shields.io/badge/Email-705970?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@imsyedkarim.com)
